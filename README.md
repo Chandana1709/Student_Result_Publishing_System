@@ -36,8 +36,8 @@ MySQL,React.js,Node.js, and Express.js.
 
 >STEP 1
 - sudo apt install mysql-server
-- CREATE DATABASE ResultSystem
 - sudo apt install nodejs
+- CREATE DATABASE ResultSystem
   
 >STEP 2
 - import backup.sql file to local MYSQL.Navigate to the directory where your SQL backup file (backup.sql) is located. You can use the cd command to change directories if needed.
@@ -47,7 +47,10 @@ MySQL,React.js,Node.js, and Express.js.
 >STEP 3
 - Replace password of your MYSQL in server.js
 
-
+> STEP 4
+- Go to frontend type : npm install
+- Go to backend type : npm install
+   
 ## Run Locally
 
 - Open Student_Result_Publishing_System
