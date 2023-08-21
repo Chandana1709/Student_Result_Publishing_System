@@ -34,7 +34,7 @@ MySQL,React.js,Node.js, and Express.js.
 <br><br>
 <img src="https://github.com/Chandana1709/Student_Result_Publishing_System/assets/95367438/fcdf7a46-59d8-45e1-9867-73ca3f9f3862" alt="Image 2" width="700" height="300">
 <br><br>
-<img src="https://github.com/Chandana1709/Student_Result_Publishing_System/assets/95367438/28a8af45-0b90-4ed3-841e-cfa130e27506" alt="Image" width="700" height="300">
+<img src="https://github.com/Chandana1709/Student_Result_Publishing_System/assets/95367438/41f94099-9aad-46f3-baef-856942ee7d86" alt="Image" width="400" height="300">
 
 
 
