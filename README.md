@@ -30,7 +30,9 @@ MySQL,React.js,Node.js, and Express.js.
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/95367438/Screenshot from 2023-08-21 13-08-08..png" width="500" height="280">
+![Screenshot from 2023-08-07 16-54-00](https://github.com/Chandana1709/Student_Result_Publishing_System/assets/95367438/808eeebe-5dfb-4523-a136-78581b94f8dd)
+
+![Screenshot from 2023-08-21 13-08-08](https://github.com/Chandana1709/Student_Result_Publishing_System/assets/95367438/fcdf7a46-59d8-45e1-9867-73ca3f9f3862)
 
 
 ## Installation
