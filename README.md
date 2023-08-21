@@ -42,7 +42,7 @@ NodeJS
 - sudo apt install nodejs
   
 >STEP 2
-  import backup.sql file to local MYSQL.Navigate to the directory where your SQL backup file (backup.sql) is located. You can use the cd command to change directories if needed.
+-import backup.sql file to local MYSQL.Navigate to the directory where your SQL backup file (backup.sql) is located. You can use the cd command to change directories if needed.
   your_username: Replace this with your MySQL username.your_database_name: Replace this with the name of the database where you want to import the data.
 - mysql -u your_username -p your_database_name < backup.sql
 
@@ -57,11 +57,6 @@ NodeJS
 
 ## Run Locally
 
-- Go to C drive -> xampp -> htdocs -> create project2 folder ->place all the downloaded files and folder.  
-- import .sql file in xammp.
-- Go to browser type:localhost/project2/index.html.
-
->STEP 4
 - Open Student_Result_Publishing_System
 - go to Student_Result_Publishing_System>frontend type npm start
-- open other terminal and go to Student_Result_Publishing_System_main
+- open other terminal and go to Student_Result_Publishing_System > backend     type node server.js
