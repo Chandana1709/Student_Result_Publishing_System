@@ -33,6 +33,7 @@ MySQL,React.js,Node.js, and Express.js.
 <img src="https://user-images.githubusercontent.com/95367438/144710960-edca58cc-7ef4-4cd8-b6a8-0934b9de4c79.png" width="500" height="280">
 
 ## Installation
+
 >STEP 1
 MYSQL
 - sudo apt install mysql-server
