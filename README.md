@@ -35,11 +35,8 @@ MySQL,React.js,Node.js, and Express.js.
 ## Installation
 
 >STEP 1
-MYSQL
 - sudo apt install mysql-server
-- CREATE DATABASE ResultSystem;
-  
-NodeJS
+- CREATE DATABASE ResultSystem
 - sudo apt install nodejs
   
 >STEP 2
@@ -50,11 +47,6 @@ NodeJS
 >STEP 3
 - Replace password of your MYSQL in server.js
 
-
-  
-
-
-.
 
 ## Run Locally
 
