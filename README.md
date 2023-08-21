@@ -30,7 +30,8 @@ MySQL,React.js,Node.js, and Express.js.
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/95367438/144710960-edca58cc-7ef4-4cd8-b6a8-0934b9de4c79.png" width="500" height="280">
+<img src="https://user-images.githubusercontent.com/95367438/Screenshot from 2023-08-21 13-08-08..png" width="500" height="280">
+
 
 ## Installation
 
