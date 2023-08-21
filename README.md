@@ -5,8 +5,6 @@ system and view their subject-wise grades, cumulative GPA, and other academic de
 performance feedback as soon as it is published.
 
 
-
-
 ## Functionalities
 
 - User-Friendly Access: Students effortlessly log in using their college-provided email and credentials, accessing a personalized dashboard that simplifies academic record retrieval.
@@ -51,10 +49,7 @@ NodeJS
 >STEP 3
 - Replace password of your MYSQL in server.js
 
->STEP 4
-- Open Student_Result_Publishing_System
-- go to Student_Result_Publishing_System>frontend type npm start
-- open other terminal and go to Student_Result_Publishing_System_main
+
   
 
 
@@ -66,3 +61,7 @@ NodeJS
 - import .sql file in xammp.
 - Go to browser type:localhost/project2/index.html.
 
+>STEP 4
+- Open Student_Result_Publishing_System
+- go to Student_Result_Publishing_System>frontend type npm start
+- open other terminal and go to Student_Result_Publishing_System_main
